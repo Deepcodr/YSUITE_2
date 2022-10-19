@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+.box{
+    word-wrap: normal;
+    width: fit-content;
+    min-width: 130px;
+    height: 130px;
+    background-color: rgb(13 42 84);
+}
+
+.btn-box{
+    width: fit-content;
+    height: 80px;
+}
+
+.table-box{
+    width: 90px;
+    height: 90px;
+    background-color: gray;
+}
+
+.item-cart-span{
+    width: 30px;
+}
+
+#Cart{
+    max-width: fit-content;
+    max-height: 190px;
+    overflow-y: scroll;
+}
+
